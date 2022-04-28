@@ -1,0 +1,51 @@
+a.button {
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    font-size: 20px;
+    padding: 10px;
+    border: 3px solid rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    text-decoration: none;
+    transition: .3s ease all;
+
+  }
+  .button:hover{
+      background: #9bd3ae;
+      border: 3px solid rgb(255, 255, 255);
+  } 
+nav{
+    text-align: center;
+    padding: 30px 30px 0 0;
+}
+.texto-header > a{
+    text-decoration: none;
+    color: black;
+    transition: .3s ease all;
+}
+.texto-header > a:hover{
+    background: #ffff00;
+}
+.texto-header{
+    background:#9bd3ae;
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+}
+
+.form-register {
+    width: 400px;
+    background: #9bd3ae;
+    padding: 30px;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: "calibri";
+    color: white;
+}
+.labels{
+    color: black;
+}
+
+
+  
